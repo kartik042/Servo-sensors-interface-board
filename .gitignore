@@ -1,0 +1,29 @@
+# KiCad backup & autosave files
+*~
+*.bak
+*.tmp
+*.autosave
+*.save
+
+# KiCad user-specific files
+*.kicad_prl
+*.kicad_wks
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Simulation output
+*.log
+*.raw
+*.plt
+*.cir
+
+# Cache and lock files
+__pycache__/
+*.pyc
+*.swp
+*.swo
+*.lock
+
+# Project backup folders
+*-backups/
+*Backups/
